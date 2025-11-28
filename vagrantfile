@@ -30,4 +30,5 @@ Vagrant.configure("2") do |config|
     sudo systemctl start nginx
     sudo systemctl enable nginx
   SHELL
+
 end
